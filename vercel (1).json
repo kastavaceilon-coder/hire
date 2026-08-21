@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/happyspin-2",
+      "destination": "/happyspin-2.html"
+    },
+    {
+      "source": "/happyspin-2/",
+      "destination": "/happyspin-2.html"
+    }
+  ]
+}
